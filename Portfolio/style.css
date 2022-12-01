@@ -1,0 +1,44 @@
+img {
+    width: 200px;
+    border-radius: 30px;
+    float: left;
+  }
+  p.me {
+    font-size: 30px;
+  }
+  table {
+    width: 350px;
+    font-size: 20px;
+  }
+  th,
+  td {
+    text-align: left;
+  }
+  table,
+  th,
+  td {
+    border: 1px solid white;
+  }
+  p.yo {
+    font-size: 20px;
+  }
+  p.edu {
+    font-size: 30px;
+  }
+  ul.us {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .us li {
+    list-style: none;
+  }
+  .us.li a {
+    text-decoration: none;
+  }
+  ul {
+    font-size: 20px;
+  }
+  a {
+    font-size: 20px;
+  }
